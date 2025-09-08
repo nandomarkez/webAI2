@@ -1,0 +1,18 @@
+{
+  "name": "modern-landing-login",
+  "version": "1.0.0",
+  "description": "A modern landing page with a login feature.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "landing",
+    "login",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
